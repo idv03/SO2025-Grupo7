@@ -1,0 +1,2 @@
+# SO2025-Grupo7
+TP SO
